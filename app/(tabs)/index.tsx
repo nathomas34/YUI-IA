@@ -203,6 +203,7 @@ export default function ChatScreen() {
 
   const getAIResponse = (input: string) => {
     const responses = [
+      "Coucou ! ✨",
       "Je suis là pour t'aider ! ✨",
       "Intéressant ! Dis m'en plus... 🌟",
       "Je comprends ce que tu veux dire. ✨",
